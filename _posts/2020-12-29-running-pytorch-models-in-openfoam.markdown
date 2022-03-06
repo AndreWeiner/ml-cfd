@@ -66,7 +66,7 @@ The second modification switches off old-style-cast warnings being displayed whe
 
 The local installation of LibTorch is very similar to the Docker recipe. First, go to the [PyTorch website](https://pytorch.org/) and select the C++ API package as indicated in the picture below. **Important:** use the download link containing **-abi-shared-with-deps-** (cxx11 ABI). Then extract the archive to a location of your choice.
 
-| ![]({{ site.url }}/assets/img/pytorch_download_selection.png) |
+| ![]({{ site.baseurl }}/assets/img/pytorch_download_selection.png) |
 |:--:|
 |*Selection to download libtorch without GPU support.*|
 
@@ -80,7 +80,7 @@ Powerful code editors can make your life much easier when learning to use a larg
 
 On the [download page](https://code.visualstudio.com/Download) of vscode, you find plenty of options to get vscode. There are `.deb` and `.rpm` packages for the most popular Linux distributions, but also installers for Windows and MacOS. For C++ projects, you also want to install the official C/C++ extension. After staring vscode (simply type `code .` in the command line), open the extension manager by pressing *Crtl+Shift+X*, search for C/C++, and click on install.
 
-| ![]({{ site.url }}/assets/img/cpp_intellisense.png) |
+| ![]({{ site.baseurl }}/assets/img/cpp_intellisense.png) |
 |:--:|
 |*C/C++ extension for vscode.*|
 
@@ -88,7 +88,7 @@ On the [download page](https://code.visualstudio.com/Download) of vscode, you fi
 
 If you open up one of the PyTorch C++ [examples](https://github.com/AndreWeiner/of_pytorch_docker/tree/master/test) in the repository with vscode, you will notice that Intellisense (the vscode engine doing all the magic in the background) is not able to find the torch.h header file. To fix this issue, some of the Intellisense settings have to be changed. In vscode, open the command palette by pressing *Ctrl+Shift+P*, search for C/C++, and select *C/C++: Edit Configurations (JSON)* as in the image below.
 
-| ![]({{ site.url }}/assets/img/vscode_edit_setting.png) |
+| ![]({{ site.baseurl }}/assets/img/vscode_edit_setting.png) |
 |:--:|
 |*Opening C/C++ configurations in vscode.*|
 

@@ -50,7 +50,7 @@ blockMesh &> log.blockMesh
 icoFoam &> log.icoFoam
 ```
 
-| ![]({{ site.url }}/assets/img/cavity_crop-1024x698.png) |
+| ![]({{ site.baseurl }}/assets/img/cavity_crop-1024x698.png) |
 |:--:|
 |*Vector plot of cell-centered velocity colored by its magnitude.*|
 
@@ -78,7 +78,7 @@ Running the tutorial in serial takes about 24h. So it's wise to run it overnight
 ./Allrun
 ```
 
-| ![]({{ site.url }}/assets/img/boxes_post_crop-1024x915.png) |
+| ![]({{ site.baseurl }}/assets/img/boxes_post_crop-1024x915.png) |
 |:--:|
 |*The surface color indicates the thickness of the cooling film. The Lagrangian particles' diameters scale with the mass they carry.*|
 
@@ -115,7 +115,7 @@ Here is a task for **you**:
 1. Take a close look at the streamlines in the picture below. First, check the alignment between mesh and streamlines. Can you spot under which conditions the highest deviations occur?
 2. Open the **fvSolution** file located in the system directory, set different values for the **nNonOrthogonalCorrectors** (0, 1, 2, …), and re-run the simulation. How does the error behave?
 
-| ![]({{ site.url }}/assets/img/cylinder_post-1024x576.png) |
+| ![]({{ site.baseurl }}/assets/img/cylinder_post-1024x576.png) |
 |:--:|
 |*The color of the streamlines indicates the relative difference between numerical and analytical solution.*|
 

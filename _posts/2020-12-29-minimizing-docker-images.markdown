@@ -19,7 +19,7 @@ When compiling a new high-level application or utility that will be shipped as a
 
 The idea behind multi-stage builds is simple: first, you prepare one or more build-environments with all dependencies (typically called builder(s)), then you build your application, and finally, you extract only what is really needed from the builder and discard the rest. The simplest multi-stage build is a two-stage build as depicted in the image below. However, you could also merge applications from multiple different builders into one final image, or you could combine different builders to create a new builder. The first scenario may be relevant to merge several binaries needed to run a simulation into a single image (e. g. third-party meshing tool + custom OpenFOAM solver + third-party post-processing tool). The latter scenario may occur if OpenFOAM is combined with another custom library to build the final app. In the early days of Docker, users would define individual Dockerfiles for each step in the build process, and write wrapper scripts to execute them in order. Since the introduction of [multi-stage builds](https://docs.docker.com/develop/develop-images/multistage-build/), Docker handles the execution and copy processes for the user, and the entire build can be defined in a single Dockerfile.
 
-| ![]({{ site.url }}/assets/img/multi_stage_docker.png) |
+| ![]({{ site.baseurl }}/assets/img/multi_stage_docker.png) |
 |:--:|
 |*Multi-stage build with two stages: in the first stage, the environment is set up and the application is compiled; in the second stage, the compiled application and its dependencies are isolated.*|
 
