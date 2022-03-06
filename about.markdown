@@ -6,6 +6,10 @@ permalink: /about/
 
 Hi there! My name is Andre Weiner. I am a research scientist working on computational fluid dynamics (CFD) and machine learning (ML). Besides ML and CFD, I am also interested in making research reproducible by employing containerization and version control (Docker, Singularity, Git, Github). Reproducibility also implies full transparency regarding source code and workflows, which is why my work as well as the work of students I supervise is available on [Github](https://github.com/AndreWeiner). I am also an advocate for self-determined, lifelong learning.
 
+| <img src="{{ site.baseurl }}/assets/img/andre_weiner_reduced-edited.jpg"  width="250"> |
+|:--:|
+|*That's me in 2017.*|
+
 ### Profile pages
 
 If you are interested in my academic curriculum, have a look at the following profile pages:
