@@ -22,8 +22,8 @@ title: ML-CFD
 email: andre.weiner@yahoo.de
 description: >- # this means to ignore newlines until "baseurl:"
   Blog about machine learning and computational fluid dynamics
-baseurl: "/ml-cfd" # the subpath of your site, e.g. /blog
-url: "https://andreweiner.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://ml-cfd.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  AndreWeiner
 linkedin_username: andre-weiner-a79752133
