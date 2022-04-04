@@ -28,6 +28,7 @@ If you are interested in my academic curriculum, have a look at the following pr
 
 ### Presentation and training slides
 
+- [Simulation and modal analysis of transonic shock buffets on a NACA-0012 airfoil](https://andreweiner.github.io/reveal.js/euromech2022_buffet.html#/), Euromech Colloquium 612, **Mar 2022**, Aachen, virtual
 - [Machine learning in computational fluid dynamics - an overview](https://andreweiner.github.io/reveal.js/mlcfd_overview_feb2022.html#/), keynote lecture chemical industry, **Feb 2022**
 - [Simulation and modal analysis of transonic shock buffets on a NACA-0012 airfoil](https://andreweiner.github.io/reveal.js/aiaa2022_buffet.html#/), AIAA SciTech Forum, **Jan 2022**, San Diego, virtual
 - [Active control of the flow past a cylinder using deep reinforcement learning](https://andreweiner.github.io/reveal.js/of_conf_2021.html#/), OpenFOAM conference, **Oct 2021**, virtual
@@ -44,7 +45,7 @@ If you are interested in my academic curriculum, have a look at the following pr
 
 ### Supervised student projects
 
-- Model-based reinforcement learning for accelerated learning from CFD simulations, course project, **Jan Erik Schulze**, 2022, [Github](https://github.com/ErikSchulze1796/Active_flow_control_past_cylinder_using_DRL)
+- [Model-based reinforcement learning for accelerated learning from CFD simulations](https://doi.org/10.5281/zenodo.6375574), course project, **Jan Erik Schulze**, 2022, [Github](https://github.com/ErikSchulze1796/Active_flow_control_past_cylinder_using_DRL)
 - Reduced-order modeling based on cluster-based network modeling applied to the latent variables of an autoencoder, course project, **Niels Formella**, 2021, [Github](https://github.com/nformella/Cluster-based-network-modeling-using-auto-encoders)
 - [Active control of the flow past a cylinder under Reynolds number variation using deep reinforcement learning](https://zenodo.org/record/5634050#.YaumMrso9hE), Bachelor thesis, **Fabian Gabriel**, 2021, [Github](https://github.com/FabianGabriel/Active_flow_control_past_cylinder_using_DRL)
 - Numerical investigation of 2D transonic shock-buffet around a NACA 0012-34 airfoil using OpenFOAM and flowTorch, course project, **Tushar Anil Gholap**, 2021, [Github](https://github.com/Tushargh29/transonic_shock_buffet)
