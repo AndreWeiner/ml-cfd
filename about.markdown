@@ -28,13 +28,14 @@ If you are interested in my academic curriculum, have a look at the following pr
 
 ### Presentation and training slides
 
+- [Active flow control via deep reinforcement learning implemented in OpenFOAM](https://andreweiner.github.io/reveal.js/combustion_seminar_may2022.html#/), OpenFOAM combustion seminar - invited talk, **May 2022**, Singapore, virtual
 - [Simulation and modal analysis of transonic shock buffets on a NACA-0012 airfoil](https://andreweiner.github.io/reveal.js/euromech2022_buffet.html#/), Euromech Colloquium 612, **Mar 2022**, Aachen, virtual
 - [Machine learning in computational fluid dynamics - an overview](https://andreweiner.github.io/reveal.js/mlcfd_overview_feb2022.html#/), keynote lecture chemical industry, **Feb 2022**
 - [Simulation and modal analysis of transonic shock buffets on a NACA-0012 airfoil](https://andreweiner.github.io/reveal.js/aiaa2022_buffet.html#/), AIAA SciTech Forum, **Jan 2022**, San Diego, virtual
 - [Active control of the flow past a cylinder using deep reinforcement learning](https://andreweiner.github.io/reveal.js/of_conf_2021.html#/), OpenFOAM conference, **Oct 2021**, virtual
 - [flowTorch - A platform for analysis and reduced-order modeling of high-speed stall flow phenomena](https://andreweiner.github.io/reveal.js/DLRK_2021.html#/), DLRK 2021, **Aug 2021**, Bremen, virtual
 - [Machine learning-aided CFD with OpenFOAM and PyTorch](https://andreweiner.github.io/reveal.js/ofw_training_2021.html#/), training at 16th OpenFOAM Workshop, **Jun 2021**, Dublin, virtual
-- [Machine learning-aided CFD with OpenFOAM and PyTorch](https://andreweiner.github.io/reveal.js/ssd_seminar_2021.html#/), SSD Seminar – invited talk, **Jun 2021**, RWTH Aachen, virtual
+- [Machine learning-aided CFD with OpenFOAM and PyTorch](https://andreweiner.github.io/reveal.js/ssd_seminar_2021.html#/), SSD Seminar - invited talk, **Jun 2021**, RWTH Aachen, virtual
 - [Sparse Spatial Samling - S³](https://wp-ml-cfd.s3.eu-central-1.amazonaws.com/wp-content/uploads/2020/12/29173309/aiaa_2021_fernex_weiner_noack_semaan.pdf), AIAA SciTech Forum, **Jan 2021**, Nashville, virtual
 - [Creating data-driven workflows with OpenFOAM and PyTorch](https://andreweiner.github.io/reveal.js/of_conf_2020.html#/), 8th ESI OpenFOAM conference, **Oct 2020**, Berlin, virtual
 - [An introduction to supervised learning by example: path regime classification](https://andreweiner.github.io/reveal.js/path_regime_classification_2020.html#/), internal training, **Aug 2020**, Braunschweig, virtual
