@@ -28,6 +28,8 @@ If you are interested in my academic curriculum, have a look at the following pr
 
 ### Presentation and training slides
 
+- [Modal analysis of transonic shock buffets on a NACA-0012 airfoil](https://andreweiner.github.io/reveal.js/ofw2022_naca_dmd.html#/), 17th OpenFOAM workshop, **Jul 2022**, Cambridge
+- [Analyzing coherent structures by means of dynamic mode decomposition](https://andreweiner.github.io/reveal.js/ofw2022_dmd_training.html#/), 17th OpenFOAM workshop, **Jul 2022**, Cambridge
 - [Active flow control via deep reinforcement learning implemented in OpenFOAM](https://andreweiner.github.io/reveal.js/combustion_seminar_may2022.html#/), OpenFOAM combustion seminar - invited talk, **May 2022**, Singapore, virtual
 - [Simulation and modal analysis of transonic shock buffets on a NACA-0012 airfoil](https://andreweiner.github.io/reveal.js/euromech2022_buffet.html#/), Euromech Colloquium 612, **Mar 2022**, Aachen, virtual
 - [Machine learning in computational fluid dynamics - an overview](https://andreweiner.github.io/reveal.js/mlcfd_overview_feb2022.html#/), keynote lecture chemical industry, **Feb 2022**
