@@ -28,6 +28,7 @@ If you are interested in my academic curriculum, have a look at the following pr
 
 ### Presentation and training slides
 
+- [Activities of the data-driven modeling special interest group](https://andreweiner.github.io/reveal.js/release_webinar_2206.html#/), OpenFOAM-v2206 release webinar, **Jul 2022**, virtual
 - [Modal analysis of transonic shock buffets on a NACA-0012 airfoil](https://andreweiner.github.io/reveal.js/ofw2022_naca_dmd.html#/), 17th OpenFOAM workshop, **Jul 2022**, Cambridge
 - [Analyzing coherent structures by means of dynamic mode decomposition](https://andreweiner.github.io/reveal.js/ofw2022_dmd_training.html#/), 17th OpenFOAM workshop, **Jul 2022**, Cambridge
 - [Active flow control via deep reinforcement learning implemented in OpenFOAM](https://andreweiner.github.io/reveal.js/combustion_seminar_may2022.html#/), OpenFOAM combustion seminar - invited talk, **May 2022**, Singapore, virtual
