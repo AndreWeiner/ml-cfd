@@ -21,6 +21,7 @@ If you are interested in my academic curriculum, have a look at the following pr
 ### Scientific software packages
 
 - **flowTorch** - a Python library for analysis and reduced-order modeling of fluid flows, [Github](https://github.com/FlowModelingControl/flowtorch)
+- **drlFoam** - Deep Reinforcement Learning with OpenFOAM, [Github](https://github.com/OFDataCommittee/drlfoam)
 
 ### University courses
 
@@ -28,6 +29,8 @@ If you are interested in my academic curriculum, have a look at the following pr
 
 ### Presentation and training slides
 
+- [ProDiGI - Machine learning in computational fluid dynamics lecture](https://andreweiner.github.io/reveal.js/prodigi_final.html#/), [ProDiGI](https://www.tu-braunschweig.de/en/teaching-and-media-education/our-services/international-teaching/prodigi) event, **Feb 2023**, Braunschweig
+- Analysis of shock buffet PSP measurements by means of dynamic mode decomposition, Airbus XRF-1 workshop, **Dec 2022**, virtual
 - [Activities of the data-driven modeling special interest group](https://andreweiner.github.io/reveal.js/release_webinar_2206.html#/), OpenFOAM-v2206 release webinar, **Jul 2022**, virtual
 - [Modal analysis of transonic shock buffets on a NACA-0012 airfoil](https://andreweiner.github.io/reveal.js/ofw2022_naca_dmd.html#/), 17th OpenFOAM workshop, **Jul 2022**, Cambridge
 - [Analyzing coherent structures by means of dynamic mode decomposition](https://andreweiner.github.io/reveal.js/ofw2022_dmd_training.html#/), 17th OpenFOAM workshop, **Jul 2022**, Cambridge
@@ -49,6 +52,9 @@ If you are interested in my academic curriculum, have a look at the following pr
 
 ### Supervised student projects
 
+- Robust model-based deep reinforcement learning for flow control, course project, **Janis Geise**, 2023, [Github](https://github.com/JanisGeise/robust_MB_DRL_for_flow_control)
+- [Optimal sensor placement for active flow control with deep reinforcement learning](https://zenodo.org/record/7636959#.Y-qTLcbMJkg), course project, **Tom Krogmann**, 2022, [Github](https://github.com/TomKrogmann/Optimal_Sensor_Placement_for_Active_Flow_Control_in_Deep_Reinforcement_Learning)
+- POD-based parametric reduced-order models for time-dependent fluid flows, course project, **Jan Schlüter**, 2022
 - [Model-based reinforcement learning for accelerated learning from CFD simulations](https://doi.org/10.5281/zenodo.6375574), course project, **Jan Erik Schulze**, 2022, [Github](https://github.com/ErikSchulze1796/Active_flow_control_past_cylinder_using_DRL)
 - Reduced-order modeling based on cluster-based network modeling applied to the latent variables of an autoencoder, course project, **Niels Formella**, 2021, [Github](https://github.com/nformella/Cluster-based-network-modeling-using-auto-encoders)
 - [Active control of the flow past a cylinder under Reynolds number variation using deep reinforcement learning](https://zenodo.org/record/5634050#.YaumMrso9hE), Bachelor thesis, **Fabian Gabriel**, 2021, [Github](https://github.com/FabianGabriel/Active_flow_control_past_cylinder_using_DRL)
