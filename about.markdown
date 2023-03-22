@@ -29,6 +29,7 @@ If you are interested in my academic curriculum, have a look at the following pr
 
 ### Presentation and training slides
 
+- [Data-driven modeling and validation of reactive mass transfer at rising bubbles](https://andreweiner.github.io/reveal.js/ofmf_short_course_mar2023.html#/), OpenFoam multiphase short course - invited talk, **Mar 2023**, Darmstadt
 - [ProDiGI - Machine learning in computational fluid dynamics lecture](https://andreweiner.github.io/reveal.js/prodigi_final.html#/), [ProDiGI](https://www.tu-braunschweig.de/en/teaching-and-media-education/our-services/international-teaching/prodigi) event, **Feb 2023**, Braunschweig
 - Analysis of shock buffet PSP measurements by means of dynamic mode decomposition, Airbus XRF-1 workshop, **Dec 2022**, virtual
 - [Activities of the data-driven modeling special interest group](https://andreweiner.github.io/reveal.js/release_webinar_2206.html#/), OpenFOAM-v2206 release webinar, **Jul 2022**, virtual
