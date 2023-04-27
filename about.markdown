@@ -29,6 +29,7 @@ If you are interested in my academic curriculum, have a look at the following pr
 
 ### Presentation and training slides
 
+- [Model-based deep reinforcement learning for flow control](https://andreweiner.github.io/reveal.js/cfc2023.html#/), 22nd Computer Fluids Conference, **Apr 2023**, Cannes
 - [Data-driven modeling and validation of reactive mass transfer at rising bubbles](https://andreweiner.github.io/reveal.js/ofmf_short_course_mar2023.html#/), OpenFoam multiphase short course - invited talk, **Mar 2023**, Darmstadt
 - [ProDiGI - Machine learning in computational fluid dynamics lecture](https://andreweiner.github.io/reveal.js/prodigi_final.html#/), [ProDiGI](https://www.tu-braunschweig.de/en/teaching-and-media-education/our-services/international-teaching/prodigi) event, **Feb 2023**, Braunschweig
 - Analysis of shock buffet PSP measurements by means of dynamic mode decomposition, Airbus XRF-1 workshop, **Dec 2022**, virtual
@@ -53,7 +54,7 @@ If you are interested in my academic curriculum, have a look at the following pr
 
 ### Supervised student projects
 
-- Robust model-based deep reinforcement learning for flow control, course project, **Janis Geise**, 2023, [Github](https://github.com/JanisGeise/robust_MB_DRL_for_flow_control)
+- [Robust model-based deep reinforcement learning for flow control](https://zenodo.org/record/7642927#.ZEqIt41Bxkg), course project, **Janis Geise**, 2023, [Github](https://github.com/JanisGeise/robust_MB_DRL_for_flow_control)
 - [Optimal sensor placement for active flow control with deep reinforcement learning](https://zenodo.org/record/7636959#.Y-qTLcbMJkg), course project, **Tom Krogmann**, 2022, [Github](https://github.com/TomKrogmann/Optimal_Sensor_Placement_for_Active_Flow_Control_in_Deep_Reinforcement_Learning)
 - POD-based parametric reduced-order models for time-dependent fluid flows, course project, **Jan Schlüter**, 2022
 - [Model-based reinforcement learning for accelerated learning from CFD simulations](https://doi.org/10.5281/zenodo.6375574), course project, **Jan Erik Schulze**, 2022, [Github](https://github.com/ErikSchulze1796/Active_flow_control_past_cylinder_using_DRL)
