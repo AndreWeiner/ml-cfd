@@ -25,7 +25,8 @@ If you are interested in my academic curriculum, have a look at the following pr
 
 ### University courses
 
-- [Machine learning in computational fluid dynamics](https://github.com/AndreWeiner/ml-cfd-lecture), TU Braunschweig, winter term 2021/2022; I designed this course from scratch; lecture notes, slides, exercises, and datasets are freely available
+- [Machine learning in computational fluid dynamics](https://github.com/AndreWeiner/ml-cfd-lecture), TU Braunschweig, since winter term 2021/2022; I designed this course from scratch; lecture notes, slides, exercises, and datasets are freely available
+- [Modeling and simulation of turbulent flows](https://github.com/AndreWeiner/turbulence_modelling_lecture), TU Braunschweig, since summer term 2023; I designed this course mostly from scratch (syllabus, lecture slides, exercises)
 
 ### Presentation and training slides
 
@@ -56,6 +57,7 @@ If you are interested in my academic curriculum, have a look at the following pr
 
 - [Robust model-based deep reinforcement learning for flow control](https://zenodo.org/record/7642927#.ZEqIt41Bxkg), course project, **Janis Geise**, 2023, [Github](https://github.com/JanisGeise/robust_MB_DRL_for_flow_control)
 - [Optimal sensor placement for active flow control with deep reinforcement learning](https://zenodo.org/record/7636959#.Y-qTLcbMJkg), course project, **Tom Krogmann**, 2022, [Github](https://github.com/TomKrogmann/Optimal_Sensor_Placement_for_Active_Flow_Control_in_Deep_Reinforcement_Learning)
+- [Design and implementation of a data-driven wall function for the velocity in RANS simulations](https://zenodo.org/record/6590747), master project, **Jihoo Kang**, 2022, [Github](https://github.com/JihooKang-KOR/Data_driven_wall_modeling)
 - POD-based parametric reduced-order models for time-dependent fluid flows, course project, **Jan Schlüter**, 2022
 - [Model-based reinforcement learning for accelerated learning from CFD simulations](https://doi.org/10.5281/zenodo.6375574), course project, **Jan Erik Schulze**, 2022, [Github](https://github.com/ErikSchulze1796/Active_flow_control_past_cylinder_using_DRL)
 - Reduced-order modeling based on cluster-based network modeling applied to the latent variables of an autoencoder, course project, **Niels Formella**, 2021, [Github](https://github.com/nformella/Cluster-based-network-modeling-using-auto-encoders)
