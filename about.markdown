@@ -30,6 +30,7 @@ If you are interested in my academic curriculum, have a look at the following pr
 
 ### Presentation and training slides
 
+- [Advances in the application of DRL to flow control](https://andreweiner.github.io/reveal.js/ofw_talk_2023.html#/), 18th OpenFOAM workshop, **Jul 2023**, Genoa
 - [Setting up a new flow control problem in drlFoam](https://andreweiner.github.io/reveal.js/ofw_training_2023.html#/), 18th OpenFOAM workshop, **Jul 2023**, Genoa
 - [Model-based deep reinforcement learning for flow control](https://andreweiner.github.io/reveal.js/cfc2023.html#/), 22nd Computer Fluids Conference, **Apr 2023**, Cannes
 - [Data-driven modeling and validation of reactive mass transfer at rising bubbles](https://andreweiner.github.io/reveal.js/ofmf_short_course_mar2023.html#/), OpenFoam multiphase short course - invited talk, **Mar 2023**, Darmstadt
