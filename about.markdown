@@ -15,7 +15,8 @@ Hi there! My name is Andre Weiner. I am a research scientist working on computat
 If you are interested in my academic curriculum, have a look at the following profile pages:
 
 - [Google Scholar](https://scholar.google.de/citations?user=wCmTgzgAAAAJ&hl=de) (journal articles)
-- [Technical University of Braunschweig](https://www.tu-braunschweig.de/ism/forschung/modellierung-und-regelung-von-stroemungen/mitarbeiter/weiner) (May 2020 - today)
+- [Technical University of Dresden](https://tu-dresden.de/ing/maschinenwesen/ism/psm/die-professur/beschaeftigte/weiner-andre) (since Sep 2023)
+- [Technical University of Braunschweig](https://www.tu-braunschweig.de/ism/forschung/modellierung-und-regelung-von-stroemungen/mitarbeiter/weiner) (May 2020 - Jul 2023)
 - [Technical University of Darmstadt](https://www.mma.tu-darmstadt.de/index/mitarbeiter_3/mitarbeiter_details_mma_45120.en.jsp) (Oct 2014 - Apr 2020)
 
 ### Scientific software packages
@@ -25,8 +26,8 @@ If you are interested in my academic curriculum, have a look at the following pr
 
 ### University courses
 
-- [Machine learning in computational fluid dynamics](https://github.com/AndreWeiner/ml-cfd-lecture), TU Braunschweig, since winter term 2021/2022; I designed this course from scratch; lecture notes, slides, exercises, and datasets are freely available
-- [Modeling and simulation of turbulent flows](https://github.com/AndreWeiner/turbulence_modelling_lecture), TU Braunschweig, since summer term 2023; I designed this course mostly from scratch (syllabus, lecture slides, exercises)
+- [Machine learning in computational fluid dynamics](https://github.com/AndreWeiner/ml-cfd-lecture), TU Braunschweig and TU Dresden, since winter term 2021/2022; I designed this course from scratch; lecture notes, slides, exercises, and datasets are freely available
+- [Modeling and simulation of turbulent flows](https://github.com/AndreWeiner/turbulence_modelling_lecture), TU Braunschweig, summer term 2023; I designed this course mostly from scratch (syllabus, lecture slides, exercises)
 
 ### Presentation and training slides
 
