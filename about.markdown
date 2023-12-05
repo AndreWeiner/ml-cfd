@@ -59,6 +59,8 @@ If you are interested in my academic curriculum, have a look at the following pr
 
 ### Supervised student projects
 
+- [A comparison of reduced-order models for wing buffet predictions](https://zenodo.org/records/10255520), course project, **Anton Schreiber**, 2023, [Github](https://github.com/AntonSchreiber/ROM-buffet-forecasting)
+- Prediction of ice formation on heat exchanger surfaces and defrost control using machine learning, master project, together with [Coldsense](https://www.cold-sense.com/en/), **Tom Krogmann**, 2023
 - [Robust model-based deep reinforcement learning for flow control](https://zenodo.org/record/7642927#.ZEqIt41Bxkg), course project, **Janis Geise**, 2023, [Github](https://github.com/JanisGeise/robust_MB_DRL_for_flow_control)
 - [Optimal sensor placement for active flow control with deep reinforcement learning](https://zenodo.org/record/7636959#.Y-qTLcbMJkg), course project, **Tom Krogmann**, 2022, [Github](https://github.com/TomKrogmann/Optimal_Sensor_Placement_for_Active_Flow_Control_in_Deep_Reinforcement_Learning)
 - [Design and implementation of a data-driven wall function for the velocity in RANS simulations](https://zenodo.org/record/6590747), master project, **Jihoo Kang**, 2022, [Github](https://github.com/JihooKang-KOR/Data_driven_wall_modeling)
