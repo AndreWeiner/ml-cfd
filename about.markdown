@@ -59,6 +59,7 @@ If you are interested in my academic curriculum, have a look at the following pr
 
 ### Supervised student projects
 
+- [Learning of optimized multigrid solver settings for CFD applications](https://doi.org/10.5281/zenodo.10361535), Master thesis, **Janis Geise**, 2023, [Github](https://github.com/JanisGeise/learning_of_optimized_multigrid_solver_settings_for_CFD_applications)
 - [A comparison of reduced-order models for wing buffet predictions](https://zenodo.org/records/10255520), course project, **Anton Schreiber**, 2023, [Github](https://github.com/AntonSchreiber/ROM-buffet-forecasting)
 - Prediction of ice formation on heat exchanger surfaces and defrost control using machine learning, master project, together with [Coldsense](https://www.cold-sense.com/en/), **Tom Krogmann**, 2023
 - [Robust model-based deep reinforcement learning for flow control](https://zenodo.org/record/7642927#.ZEqIt41Bxkg), course project, **Janis Geise**, 2023, [Github](https://github.com/JanisGeise/robust_MB_DRL_for_flow_control)
