@@ -31,6 +31,8 @@ If you are interested in my academic curriculum, have a look at the following pr
 
 ### Presentation and training slides
 
+- [Model-based reinforcement learning for active flow control](https://andreweiner.github.io/reveal.js/gamm_2024.html#/), 94th GAMM, **Mar 2024**, Magdeburg
+- Extracting coherent structures and reduced-order models from flows, Bosch - invited talk, **Jan 2024**, Stuttgart
 - DMD analysis of the XRF-1 wing undergoing transonic shock buffet, DLRK 2023, **Sep 2023**, Stuttgart
 - [Advances in the application of DRL to flow control](https://andreweiner.github.io/reveal.js/ofw_talk_2023.html#/), 18th OpenFOAM workshop, **Jul 2023**, Genoa
 - [Setting up a new flow control problem in drlFoam](https://andreweiner.github.io/reveal.js/ofw_training_2023.html#/), 18th OpenFOAM workshop, **Jul 2023**, Genoa
