@@ -31,6 +31,10 @@ If you are interested in my academic curriculum, have a look at the following pr
 
 ### Presentation and training slides
 
+- [An optimized dynamic mode decomposition for flow analysis and forecasting](https://andreweiner.github.io/reveal.js/ofw2024_optdmd.html#/), 19th OpenFOAM workshop, **June 2024**, Beijing
+- Combining machine learning with computational fluid dynamics using OpenFOAM and SmartSim, 19th OpenFOAM workshop, **June 2024**, Beijing
+- Analyse turbulenter Strömungen - wie man Ordnung im Chaos findet, Lange Nacht der Wissenschaft, **June 2024**, Dresden
+- Modal analysis of fluid flows - best practices, ISM seminar - invited talk, **May 2024**, Braunschweig
 - [Model-based reinforcement learning for active flow control](https://andreweiner.github.io/reveal.js/gamm_2024.html#/), 94th GAMM, **Mar 2024**, Magdeburg
 - Extracting coherent structures and reduced-order models from flows, Bosch - invited talk, **Jan 2024**, Stuttgart
 - DMD analysis of the XRF-1 wing undergoing transonic shock buffet, DLRK 2023, **Sep 2023**, Stuttgart
