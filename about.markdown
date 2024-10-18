@@ -31,8 +31,10 @@ If you are interested in my academic curriculum, have a look at the following pr
 
 ### Presentation and training slides
 
+- [A brief introduction to Bayesian optimization](https://andreweiner.github.io/reveal.js/bayesopt_intro.html#/), PSM seminar, **Oct 2024**, Dresden
 - Best practice guidelines for the modal analysis of numerical and experimental data, DLRK 2024, **Sep 2023**, Hamburg
 - [An optimized dynamic mode decomposition for flow analysis and forecasting](https://andreweiner.github.io/reveal.js/ofw2024_optdmd.html#/), 19th OpenFOAM workshop, **June 2024**, Beijing
+- Machine learning in computational fluid dynamics - an overview, invited talk, automotive industry, **July 2024**
 - Combining machine learning with computational fluid dynamics using OpenFOAM and SmartSim, 19th OpenFOAM workshop, **June 2024**, Beijing
 - Analyse turbulenter Strömungen - wie man Ordnung im Chaos findet, Lange Nacht der Wissenschaft, **June 2024**, Dresden
 - Modal analysis of fluid flows - best practices, ISM seminar - invited talk, **May 2024**, Braunschweig
