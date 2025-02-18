@@ -31,6 +31,8 @@ If you are interested in my academic curriculum, have a look at the following pr
 
 ### Presentation and training slides
 
+- [Model-based DRL for accelerated learning from flow simulations](https://andreweiner.github.io/slides/mbdrl-2025-2.html), seminar talk ILR TU Berlin, **Feb 2025**, Berlin
+- [Data-driven modeling, optimization, and control in CFD](https://andreweiner.github.io/slides/ml-cfd-2025.html), invited talk automotive industry, **Feb 2025**
 - [A brief introduction to Bayesian optimization](https://andreweiner.github.io/reveal.js/bayesopt_intro.html#/), PSM seminar, **Oct 2024**, Dresden
 - Best practice guidelines for the modal analysis of numerical and experimental data, DLRK 2024, **Sep 2023**, Hamburg
 - [An optimized dynamic mode decomposition for flow analysis and forecasting](https://andreweiner.github.io/reveal.js/ofw2024_optdmd.html#/), 19th OpenFOAM workshop, **June 2024**, Beijing
