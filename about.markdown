@@ -31,6 +31,7 @@ If you are interested in my academic curriculum, have a look at the following pr
 
 ### Presentation and training slides
 
+- [Analyse turbulenter Strömungen - Wie man Ordnung im Chaos findet](https://andreweiner.github.io/slides/lndw2025.html), Lange Nacht der Wissenschaften, **Jun 2025**, Dresden
 - [Model-based DRL for accelerated learning from flow simulations](https://andreweiner.github.io/slides/mbdrl-2025-2.html), seminar talk ILR TU Berlin, **Feb 2025**, Berlin
 - [Data-driven modeling, optimization, and control in CFD](https://andreweiner.github.io/slides/ml-cfd-2025.html), invited talk automotive industry, **Feb 2025**
 - [A brief introduction to Bayesian optimization](https://andreweiner.github.io/reveal.js/bayesopt_intro.html#/), PSM seminar, **Oct 2024**, Dresden
