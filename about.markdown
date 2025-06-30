@@ -31,6 +31,7 @@ If you are interested in my academic curriculum, have a look at the following pr
 
 ### Presentation and training slides
 
+- [Bayesian parameter and design optimization](https://andreweiner.github.io/slides/ofw25-bo.html), 20th OpenFOAM workshop, **Jul 2025**, Vienna
 - [Analyse turbulenter Strömungen - Wie man Ordnung im Chaos findet](https://andreweiner.github.io/slides/lndw2025.html), Lange Nacht der Wissenschaften, **Jun 2025**, Dresden
 - [Model-based DRL for accelerated learning from flow simulations](https://andreweiner.github.io/slides/mbdrl-2025-2.html), seminar talk ILR TU Berlin, **Feb 2025**, Berlin
 - [Data-driven modeling, optimization, and control in CFD](https://andreweiner.github.io/slides/ml-cfd-2025.html), invited talk automotive industry, **Feb 2025**
